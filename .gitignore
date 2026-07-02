@@ -1,0 +1,13 @@
+# Ignore large WP core directories (optional, but standard for a clean repo)
+# If you want to push everything, you can comment these out.
+/wp-admin/
+/wp-includes/
+/wp-content/cache/
+/wp-content/uploads/
+/wp-content/updraft/
+/wp-content/backups/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.log

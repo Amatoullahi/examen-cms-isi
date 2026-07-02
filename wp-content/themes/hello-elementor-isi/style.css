@@ -1,0 +1,20 @@
+/*
+Theme Name:   Hello Elementor ISI
+Theme URI:    https://isi-suptech.ci
+Description:  Theme enfant pour ISI SUPTECH base sur Hello Elementor
+Author:       ISI SUPTECH
+Author URI:   https://isi-suptech.ci
+Template:     hello-elementor
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+Text Domain:  hello-elementor-isi
+*/
+
+/* Vos styles personnalises viendront ici */
+/* Le parent Hello Elementor charge ses styles automatiquement */
+
+:root {
+  --isi-primary: #1f4085;
+  --isi-gold: #ffba2d;
+  --isi-surface: #f7f9fb;
+}
